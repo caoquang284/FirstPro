@@ -3,6 +3,6 @@
 
 int main()
 {
-    std::cout << "Hello Dong Bao Mien Tay";
+    std::cout << "Hello Dong Bao Mien Bien Ngu Vcl Dcm";
 }
 
